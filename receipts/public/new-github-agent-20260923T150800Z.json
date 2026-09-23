@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T150800Z",
+  "created_at": "2026-09-23T15:14:26.744532+00:00",
+  "agent": "ArcadeKoi",
+  "slug": "arcadekoi",
+  "did": "did:key:z6Mkhpt12Craxe8gpR4mvoc1SRQfdcUJFbt5xZHFMqbbN3D5",
+  "relay_profile": "account-055",
+  "github_repo": "https://github.com/flan99emai/flop-arcadekoi",
+  "github_login": "flan99emai",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-60",
+    "key": "153c7f80850733",
+    "status": 200,
+    "value_sha256": "14a1ef12844c7f1b553730573d57a0076a03f3cf783e3a4e6b273e6316c245a0"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/arcadekoi/receipts/public/owned-room-20260923T150800Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
